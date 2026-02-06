@@ -1,4 +1,4 @@
-# InsuredMine Assessment — Backend
+# InsuredMine — Backend
 
 **Node.js + Express + MongoDB** backend for the InsuredMine technical assessment.
 
